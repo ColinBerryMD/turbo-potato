@@ -1,4 +1,4 @@
-# fluffy-potato
+# turbo-potato
 
  Flask app to serve my private files with password protection.
 
