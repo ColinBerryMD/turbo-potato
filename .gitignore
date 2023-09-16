@@ -1,0 +1,7 @@
+.env
+env/
+__pycache__/
+flask_session/
+database.db
+record.log
+init_db.py
